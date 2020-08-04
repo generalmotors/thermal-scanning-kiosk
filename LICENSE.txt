@@ -1,0 +1,683 @@
+I. LICENSE APPLICABILITY
+
+This file contains important information about the license(s) that govern use of the Thermal Scanning Kiosk Solution (the "Kiosk Solution"), described in the README file of this repository (the "README").  Depending upon which version of the Kiosk Solution you use, you may be subject to some or all of the licenses listed below.  The licenses include:
+
+	- Thermal Scanning Kiosk Software License (Executable Version)
+	- Thermal Scanning Kiosk Software License (Source Code Version)
+	- FLIR Software Development Kit (SDK) License Agreement with Elevated Skin Temperature Screening Apps 		Addendum
+	- Creative Commons Attribution-ShareAlike 4.0 International Public License (3D-printed parts)
+
+If you use the Executable Version of the Kiosk Solution software, you will be required to agree to the following licenses upon installation:  
+
+	- Thermal Scanning Kiosk Software License (Executable Version), available in this file below.
+	- FLIR Software Development Kit (SDK) License Agreement with Elevated Skin Temperature Screening Apps 		Addendum, attached as Exhibit A to the Thermal Scanning Kiosk Software License (Executable Version), below.
+
+If you use the Source Code Version of the Kiosk Solution software, your use will be subject to the following licenses:
+
+	- Thermal Scanning Kiosk Software License (Source Code Version), available in this file, below.
+	- If you use a FLIR Systems E8 or E8-XT model thermal infrared camera with the Kiosk Solution, you will also be required to agree to the FLIR Software Development Kit (SDK) License Agreement with Elevated Skin Temperature Screening Apps Addendum prior to downloading and installing the necessary libraries from the FLIR Atlas SDK.  You can download the FLIR Atlas SDK at https://flir.custhelp.com/app/answers/detail/a_id/1275/~/free-download-instructions-for-the-atlas-sdk/.
+
+Regardless of which version of the Kiosk Solution software you use, your use will also be subject to the following license if you use the designs for the 3D-printed parts described in the README.  
+
+	- Creative Commons Attribution-ShareAlike 4.0 International Public License, available in this file below.
+
+In addition to the licenses contained in this file, please also see the COPYRIGHT NOTICE file of this repository for important copyright information.  
+
+=======================================================================
+
+II. LICENSES
+
+Thermal Scanning Kiosk Software License (Executable Version)
+
+BY DOWNLOADING, COPYING, INSTALLING OR USING THE SOFTWARE YOU AGREE TO THE LICENSES BELOW AND FURTHER AGREE THAT YOU WILL ONLY USE THE SOFTWARE IN CONJUNCTION WITH THE THERMAL SCANNING KIOSK SOLUTION DESCRIBED IN THE README FILE OF THE RESPOSITORY IN WHICH THIS LICENSE AND SOFTWARE PACKAGE ARE FOUND (THE "README").  IF YOU DO NOT AGREE TO THE APPLICABLE LICENSES OR CANNOT USE THE SOFTWARE IN MATERIAL COMPLIANCE WITH THE README, DO NOT DOWNLOAD, INSTALL, COPY OR USE THE SOFTWARE.  IF YOU ARE ACCEPTING THESE TERMS ON BEHALF OF YOUR ORGANIZATION OR ANOTHER ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY TO THE TERMS OF THESE LICENSES.
+
+## Acceptance
+
+In order to get any license under these terms, you must agree to the terms as both strict obligations and conditions 
+to all your licenses.  
+
+## Grant of License
+
+Subject to the additional terms and additional obligations, below, the licensor hereby grants to you a non-exclusive, non-transferable, non-sublicensable, limited license to use the software in material compliance with the thermal scanning kiosk solution README of the repository in which this license and software package are found.
+
+## Additional Terms
+
+This executable also includes software developed by FLIR Systems, Inc. and is subject to the FLIR Software Development Kit (SDK) License Agreement with Elevated Skin Temperature Screening Apps Addendum (the "FLIR SDK License"), attached to this license as EXHIBIT A.  If you do not accept the FLIR SDK License, in addition to these terms, you are not permitted to use this software.
+
+## Additional Obligations
+
+By using this kiosk design and its associated software, you agree to the following:
+
+•	This kiosk design and its associated software may only be used for initial evaluation of multiple users entering a facility or other area.
+
+•	This kiosk design and its associated software can only be used to examine one user at a time.
+
+•	This kiosk design and its associated software will not be used to determine, diagnose or treat any disease or condition, including COVID-19.
+
+•	This kiosk design and its associated software will not be used to determine if a user has a fever.
+
+•	This kiosk design and its associated software will not be used to provide a user with their temperature, or any number related to their temperature.
+
+•	This kiosk design and its associated software must notify a user when an elevated thermal measurement is determined and, if such a determination is made, that additional evaluation is required.  
+
+•	This kiosk design and its associated software can only be used in an environment where further evaluation is available using an appropriate method, such as measurement with a non-contact infrared thermometer or a clinical grade contact thermometer.
+
+•	This kiosk design and its associated software cannot be used for a commercial purpose.  This includes manufacturing a kiosk for a third party; marketing or selling a kiosk; requesting compensation for the use of a kiosk; renting or leasing a kiosk; and the like.  This does not preclude you using the kiosk design and its associated software for internal use with employees, visitors, customers, students, and the like who may enter your facility.
+
+•	FLIR requires that the use of this App with a FLIR EST Camera or approved FLIR Device is intended for use only as a skin temperature measuring tool, and is not a medically-approved body temperature measurement device or a medical diagnostic tool.
+
+This kiosk relies on a third-party thermal infrared camera to provide readings to the software.  An appropriate camera must be selected and any instructions for the camera followed for proper functioning of the kiosk.  FLIR has indicated that its E8 camera is generally suitable for skin temperature screening applications.
+
+## No Other Rights
+
+These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses, including without limitation the right to distribute the software or make changes or new works based on the software.
+
+## Violations
+
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 10 days of receiving notice.  Otherwise, all your licenses end immediately.
+
+## No Liability
+
+THIS KIOSK DESIGN AND ITS ASSOCIATED SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.  IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE KIOSK, SOFTWARE, OR THEIR USE.
+
+## Definitions
+
+The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
+
+**Your organization** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
+
+**Your licenses** are the licenses granted to you for the software under these terms.
+
+**Use** means anything you do with the software requiring your licenses.
+
+
+=======================================================================
+
+EXHIBIT A
+
+FLIR SOFTWARE DEVELOPMENT KIT (SDK) LICENSE AGREEMENT WITH ELEVATED SKIN TEMPERATURE SCREENING APPS ADDENDUM 
+
+NOTICE: CAREFULLY READ THE TERMS AND CONDITIONS OF THIS AGREEMENT BEFORE CLICKING “I ACCEPT THE TERMS IN THIS AGREEMENT” AND NOTE THAT THE FOLLOWING TERMS ARE INCLUDED IN THIS AGREEMENT:
+
+•	THE FLIR SDK IS PROVIDED TO FACILITATE THE DEVELOPMENT OF APPS, WHICH ARE DEFINED AS SOFTWARE APPLICATIONS 	WRITTEN FOR USE ON MOBILE OR DESKTOP DEVICES INCLUSIVE OF THOSE USING IOS, ANDROID, MAC OS, WINDOWS, LINUX AND OTHER OPERATING SYSTEMS, REGARDLESS OF WHETHER THEY’RE DISTRIBUTED PUBLICLY ON APPLICATIONS MARKETS OR DIRECTLY TO THE DEVELOPER’S INTERNAL OR EXTERNAL CUSTOMERS (SECTION 1.9)
+
+•	EXCEPT AS PROVIDED IN THIS SDK LICENSE AGREEMENT AND THE ATTACHED ELEVATED SKIN TEMPERATURE APP ADDENDUM 	(EST ADDENDUM), THE FLIR SDK MAY NOT BE USED IN CONJUNCTION WITH ANY APPS DESIGNED FOR MEDICAL OR HEALTH-RELATED PURPOSES (SECTION 3.1) 
+
+•	REVIEW AND APPROVAL BY FLIR IS REQUIRED BEFORE DISTRIBUTING APPS DEVELOPED USING THE SDK TO CUSTOMERS OR APP STORES (SECTION 5.1)
+
+•	THE FLIR SDK AND OTHER FLIR PRODUCTS, AS WELL AS APPS THAT USE THEM, MAY BE SUBJECT TO GOVERNMENTAL EXPORT, 	IMPORT AND/OR USE CONTROLS.  DEVELOPER ACKNOWLEDGES SUCH AND ACCEPTS RESPONSIBILITY TO USE FLIR PRODUCTS IN 	COMPLIANCE WITH APPLICABLE LAWS AND REGULATIONS (SECTION 8.1)
+
+BY DOWNLOADING, INSTALLING, COPYING, ACCESSING OR USING THE FLIR SOFTWARE DEVELOPMENT KIT (SDK) (DEFINED BELOW), YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.  IF YOU ARE ACCEPTING THESE TERMS ON BEHALF OF AN ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY TO THE TERMS OF THIS AGREEMENT.
+ 
+THIS SOFTWARE DEVELOPMENT KIT (SDK) LICENSE AGREEMENT (“Agreement”) is a legal agreement between you, an individual or entity (“Developer,” “you” or “your”) and FLIR Systems Inc., and its Affiliates (together, “FLIR”), and governs your use of any one of a family of FLIR SOFTWARE DEVELOPMENT KITs (SDKs), inclusive of the FLIR Mobile SDKs, FLIR Atlas SDK, FLIR Desktop SDKs, and FLIR Camera Module SDKs.  The terms of this Agreement apply to any updates, supplements, and/or support services (if any) for the above-mentioned SDKs unless other terms accompany those items. If so, those terms apply. 
+
+FLIR has developed a family of software development kits (SDKs) that are made to be used with FLIR devices (the “Device” or “Devices).  FLIR has developed a licensing program (“Licensing Program”) whereby FLIR makes available to software developers the FLIR SOFTWARE DEVELOPMENT KIT (“SDK”) for purposes of enabling such developers to develop Apps (defined below), which the developers may then distribute and/or license to end users (“End Users”) or use internally to support their own business processes.   
+
+The SDK is made available in connection with FLIR’s Licensing Program for use by Developer in developing Apps for use with the Device. Developer desires to use the SDK for purposes of developing Apps, subject to and in strict accordance with the terms and conditions of this Agreement. 
+
+In consideration of the foregoing and the mutual obligations of the parties set forth in this Agreement, the receipt and sufficiency of which is hereby acknowledged, you and FLIR agree as follows:
+DEFINITIONS.  In addition to any other defined terms set forth herein, the following capitalized terms will have the meanings set forth below.
+
+1.1	“Affiliate(s)” means an individual, corporation or other entity which directly (or indirectly through one or more intermediaries) controls at least twenty-five percent (25%) of the outstanding voting shares or securities, is controlled by, or is under common control with a party to this Agreement.
+
+1.2	“FLIR APIs” means those application programming interfaces to which Developer has been granted permission to call and use pursuant to this Agreement.  
+
+1.3	“FLIR Documentation” means any written or electronic documentation that is provided to Developer by FLIR for use in connection with the FLIR SDK.
+
+1.4	“FLIR SDK” means the FLIR APIs, the FLIR Software, and the FLIR Documentation. 
+
+1.5	“FLIR Software” means the software development tools and sample code that are provided to Developer by FLIR in source code form and/or machine readable form pursuant to this Agreement.  
+
+1.6	 “Intellectual Property Right(s)” means all rights of the following types, which may exist or be created under the laws of any jurisdiction in the world: (i) rights associated with works of authorship, including exclusive exploitation rights, copyrights, moral rights, and mask works; (ii) trademark and trade name rights and similar rights; (iii) trade secret rights; (iv) patents and industrial property rights; and (v) other proprietary rights in intellectual property of every kind and nature.
+
+1.7	“Standard Releases” shall mean releases of the FLIR SDK which may contain updates, enhancements and/or improvements authorized and made available only by FLIR from time to time in FLIR’s sole discretion.  
+
+1.8	“Open Source Code” means any software code that is distributed as “free software” or “open source software” or that is otherwise distributed publicly in source code form under terms that permit modification and redistribution of such software.
+
+1.9	“App(s)” means software application(s) written for use on mobile or desktop devices inclusive of those using iOS, Android, Mac OS, Windows, Linux and other operating systems, regardless of whether they’re distributed publicly on applications markets or directly to the developer’s internal or external customers.
+
+2.	LICENSE.
+
+2.1	License Grants.  FLIR hereby grants to Developer, during the term of this Agreement and subject to the terms and conditions set forth herein, a personal, revocable, limited, non-exclusive, non-transferable, non-assignable, non-sublicensable, royalty-free license to: (i) install and/or use the FLIR Software for Developer’s internal use solely in the manner described in the FLIR Documentation and for the sole purpose of developing, testing, and debugging Apps; (ii) use the FLIR Documentation solely for Developer’s internal use in developing, testing, and debugging Apps; and (iii) use and make calls to the FLIR APIs for Developer’s internal use solely in the manner described in the FLIR Documentation and for the sole purpose of developing, implementing, and using Apps (collectively, the “License”). 
+
+2.2	License Restrictions.  Developer agrees that the License granted in Section 2.1 above, in addition to any other limitations set forth in this Agreement, is subject to the following limitations:
+
+(i)	Developer’s right to use the FLIR SDK is for purposes of developing, implementing and using Apps solely in conjunction with a Device or for manipulating images and data created by a Device.  Developer shall not use the FLIR SDK for any other purpose.  Developer may not use the FLIR SDK to create Apps for use with non-FLIR thermal imaging devices.  Developer shall not undertake, develop or distribute any Apps or otherwise make any other product, service or other content available through its Apps the use of which, either standing alone or in conjunction with any other software, systems, networks or data, contain functionality that could be used with non-FLIR thermal imaging products, as a direct competitor to a product, products, or apps sold by FLIR, for inappropriate or improper purposes, or for the purpose of interfering with the proper operation of, degrading, causing damage to, or otherwise adversely affecting the operation of any FLIR or third party software, hardware, services, systems, networks, or data. Developer may not copy the FLIR Software or any portion thereof except as permitted herein; provided that, Developer may make a single unmodified copy of the FLIR Software for back-up and/or archival purposes.  Developer shall not alter, obscure or remove any copyright notices or any other ownership or proprietary rights notices placed on or contained in the FLIR SDK, or any part thereof. The FLIR SDK is licensed and not sold.  All rights not expressly granted to Developer under the License are reserved by FLIR, and Developer shall not take or permit any third party to take any action with respect to the FLIR SDK that is not expressly authorized under this Agreement.    
+(ii)	Developer shall not rent, lease, transfer, sublicense, sell, assign, timeshare or pledge the FLIR SDK, or any portion thereof, to any third party whether on a temporary or permanent basis, or allow any third party to access or use the FLIR SDK for any purpose, without the prior written approval of FLIR.  In particular, the FLIR SDK remains the property of FLIR, returnable upon the expiration or termination of this Agreement or upon FLIR’s earlier written request.  Developer shall not, either directly or indirectly, reverse engineer, translate, modify, alter, decompile, create derivates of or otherwise attempt to derive the source code of the FLIR SDK, other than as expressly authorized in this Agreement. Developer may permit third party contractors acting on its behalf and under its supervision to use the FLIR SDK for the purposes authorized hereunder; however, Developer shall remain responsible for all acts and omissions of its contractor(s), including without limitation, any unauthorized use of the FLIR SDK by any such contractor.  A breach by Developer’s contractor of the terms and conditions of this Agreement shall be deemed a breach of this Agreement by Developer.
+
+(iii)	Developer shall not use, combine, incorporate, or otherwise link or distribute the FLIR SDK, or any part thereof, whether in connection with an App or otherwise, with any Open Source Code licensed under any terms that: (a) impose or could impose a requirement or condition that the FLIR SDK, or any part thereof: (1) be disclosed or distributed in source code form; (2) be licensed for the purpose of making modifications or derivative works; or (3) be redistributable at no charge; or (b) otherwise impose or could impose any other material limitation, restriction, or condition on the right or ability of FLIR, its licensors, successors, and assigns, to use or distribute the FLIR SDK, or any part thereof.  
+
+3.	USE OF THE FLIR SDK.  Developer acknowledges and agrees that Developer shall be responsible for all use of the FLIR SDK by Developer hereunder.  In particular: 
+
+3.1	Developer shall use the FLIR SDK only as authorized in this Agreement and as described in the FLIR Documentation. All use of the FLIR SDK by Developer hereunder shall strictly comply with all applicable laws and regulations, and all Apps developed by Developer hereunder and the intended use for such Apps shall strictly comply with all applicable laws and regulations. Except as provided for in the EST Addendum to this Agreement. the FLIR SDK may not be used in conjunction with any Apps designed for medical or health-related purpose.
+
+3.2	Developer’s Apps and any products, services or content made available through such Apps shall not contain any: (i) virus, Trojan horse, worm, backdoor, shutdown mechanism, malicious code, sniffer, bot, drop dead mechanism, or spyware; or (ii) any other software, code, or program that is likely to or is intended to: (a) have an adverse impact on the performance of; (b) disable, corrupt, or cause damage to; or (c) cause or facilitate unauthorized access to or deny authorized access to, or cause to be used for any unauthorized or inappropriate purpose, any software, hardware, network, services, systems or data (collectively, “Malware”).  Developer shall inform FLIR of any Malware affecting its Apps of which Developer becomes aware.   
+
+4.	USE OF THE FLIR APIs.  
+
+4.1	Approval by FLIR.  Developer acknowledges and agrees that the use of FLIR APIs included as part of the FLIR SDK require the pre-approval and/or pre-authorization of FLIR as set forth in the FLIR Documentation.  Developer shall seek such approval in writing and shall provide information concerning its request as reasonably requested by FLIR.  FLIR reserves the right to refuse to approve certain uses of the FLIR APIs and/or withdraw such approval, at any time in its sole and absolute discretion.
+
+4.2	Availability.  FLIR shall host the FLIR APIs on its computer servers and shall use reasonable commercial efforts to ensure the availability of the FLIR APIs on an uninterrupted basis.  However, FLIR does not guarantee that the availability of the FLIR APIs will be uninterrupted or that the operation of the FLIR APIs will be error-free, and Developer acknowledges and agrees that the FLIR APIs may at times be unavailable as a result of, among other things, maintenance, changes, or outages.  FLIR shall have no liability to Developer or any of its End Users with respect to the unavailability of any FLIR APIs. FLIR may change or modify the FLIR APIs at any time in its sole discretion.  FLIR shall, to the extent practicable under the circumstances, provide Developer reasonable advance notice of any changes or modifications to the FLIR APIs.   FLIR is under no obligation to support the FLIR SDK or to otherwise provide Developer any Standard Releases for the FLIR SDK.  However, if FLIR does provide Developer with any such Standard Releases, such Standard Releases shall be subject to the terms and conditions of this Agreement, including without limitation, the License, or such other agreement, if any, which accompanies such Standard Release. In the event FLIR does provide Developer a Standard Release, Developer shall promptly accept and implement such Standard Release within thirty (30) days of its release by FLIR.
+
+5.	APPROVAL, MARKETING AND DISTRIBUTION OF APPS.
+
+5.1	Approval by FLIR.  Developer acknowledges and agrees that all Apps developed by Developer hereunder that use the FLIR SDK or FLIR APIs shall, prior to the Apps’ distribution or licensing by Developer to end users, be expressly approved by FLIR and/or FLIR delegates.  Developer shall submit all Apps to FLIR for approval prior to making them publicly available in any way. FLIR shall review the App and, at FLIR’s sole discretion, either approve or reject the submitted App in a reasonable amount of time.  FLIR shall have no liability to Developer if an App is rejected.  Developer represents, warrants and covenants to FLIR that the App distributed and/or licensed by Developer is the identical App which was approved by FLIR and, if applicable the appropriate App hosting service (e.g. App Store and Google Play).  Notwithstanding this Section, the approval of an App by FLIR does not relieve or otherwise excuse Developer of its obligations and responsibilities with respect to the use of the FLIR SDK as set forth in this Agreement, and FLIR reserves the right to reject any App at any time, regardless of whether such App was previously approved by FLIR, should the App at any time violate conditions of this Agreement.  In the event FLIR withdraws its approval of a previously approved App, FLIR will notify Developer of such withdrawal in writing (the “Withdrawal Notice”).  Within five (5) days of the Withdrawal Notice, Developer shall respond to notify FLIR of its intent to either remedy the violation to FLIR’s satisfaction or remove the App from all public App markets and terminate any then- current License Agreements (defined below) with its End Users. Developer will provide written confirmation to FLIR within thirty (30) days that Developer has taken the actions required in this Section.  FLIR shall have no liability to Developer and/or to any of its End Users with respect to FLIR’s withdrawal of its approval of an App.  If Developer creates an App as a (non-diagnostic) tool to screen individuals for elevated skin temperatures, FLIR’s review and approval is still a requirement for public or private distribution of App. This review may, among other things, confirm that App will not function with cameras other than FLIR EST Cameras or other non-qualified hardware (see EST Addendum ) but it will not include an assessment of App’s effectiveness in measuring elevating skin temperatures.  Developer assumes all responsibility for the combined hardware and software solution’s compliance with governing regulatory agencies everywhere that the App will be distributed and will obtain certification as required
+
+5.2	Distribution of Apps.  Developer shall enter into a license agreement (“License Agreement”) with each End User to whom it licenses and/or distributes an App.  At a minimum, such License Agreement shall include terms which: (i) restrict the use of the Apps to legal, non-tortious uses; (ii) release and hold harmless FLIR for any and all liability in connection with an End User’s use of the Apps; (iii) limit any liability of FLIR in connection with an End User’s use of the Apps in accordance with the exclusions and limitations of liability set forth below; and (iv) permit the termination of the License Agreement with reasonable written notice in the event FLIR withdraws its approval of the App pursuant to this Section, or the expiration or termination of this Agreement.
+
+5.3	Trademarks.  FLIR may require Apps created using the SDK to display the FLIR logo (the “Logo”) by default.  When displaying the FLIR Logo, the Logo must be displayed in the same manner in which the functionality of the FLIR SDK causes the Logo to be displayed, and Developer agrees not to modify, alter, cut-apart, or otherwise distort the Logo in any way.  FLIR hereby grants to Developer, during the term and subject to the terms and conditions of this Agreement, a limited, terminable, revocable, non-exclusive, non-sublicensable, non-transferrable, royalty-free license to display the Logo as part of any App, but only in the manner in which the functionality of the FLIR SDK causes the Logo to be displayed on such Images.  FLIR reserves the right to monitor and approve all use of the Logo by Developer hereunder, as determined by FLIR in its sole and absolute discretion.  Other than as expressly set forth in this Section, no other right, title or interest is granted by FLIR in the Logo, or in any other FLIR trademarks, service marks, designs, or logos, and Developer shall not use the Logo or any other FLIR trademarks, service marks, designs, or logos except as expressly authorized by this Agreement.     
+ 
+6.	CONFIDENTIAL INFORMATION.  
+
+6.1	Confidential Information Defined. 
+ 
+(i)	For purposes of this Agreement, “Confidential Information” means: (a) all nonpublic or proprietary business, commercial and technical information of FLIR, whether in written or verbal form; (b) all information designated (whether marked or unmarked) by FLIR as confidential or proprietary; and (c) all other information provided to FLIR by third parties which FLIR is obligated to keep confidential.  Without limiting the generality of the foregoing, FLIR’s Confidential Information includes, but is not limited to, the FLIR Software, the FLIR Documentation, and all other non-public elements of the FLIR SDK and other non-public information regarding its use and functionality.  Confidential Information shall remain the sole and exclusive property of FLIR.
+
+(ii)	Confidential Information does not include information that Developer can document to FLIR’s reasonable satisfaction: (a) was generally known to the public at the time of disclosure by FLIR; (b) became generally known to the public other than through a breach of this Agreement by Developer after the time of disclosure to Developer by FLIR; (c) was in Developer’s possession, free of any obligation of confidentiality at the time of disclosure to Developer by FLIR; (d) was rightfully received by Developer from a third party, free of any obligation of confidentiality after disclosure by FLIR to Developer; or (e) was independently developed by Developer without reference to, or use of, Confidential Information disclosed by FLIR or by otherwise breaching any provision of this Agreement. 
+
+6.2	Use and Disclosure of Confidential Information. 
+
+(i)	Absent the prior written consent of FLIR (which it may or may not give in its discretion), Developer agrees that for a period of seven (7) years from the termination or expiration of this Agreement, Developer: (a) will not use FLIR’s Confidential Information for any purpose other than in connection with the License; (b) will not disclose, give access to, or otherwise distribute any of FLIR’s Confidential Information to any third party, including, but not limited to, any of Developer’s Affiliates; and (c) except as otherwise expressly permitted by a provision in this Agreement, will not copy or otherwise reproduce any of FLIR’s Confidential Information.  Developer will take reasonable security precautions (at least as protective as the precautions it takes to preserve its own Confidential Information of a similar nature) to keep FLIR’s Confidential Information confidential.
+
+(ii)	Developer will restrict the possession, knowledge and use of any of FLIR’s Confidential Information only to those of Developer’s officers, directors, employees, contractors, agents and Affiliates (“Disclosees”) who have a bona fide “need to know” the specific Confidential Information and only in connection with the License.  Developer will ensure that it has executed and maintains appropriate written agreements with its Disclosees sufficient to restrict such Disclosees’ use, disclosure, and distribution of the Confidential Information consistent with Developer’s obligations under this Agreement.  Developer will ensure that its Disclosees comply with this Agreement and their respective nondisclosure agreements, and Developer agrees to be responsible for any improper use or disclosure of Confidential Information by any such individual or entity. Developer will notify FLIR immediately upon: (a) discovery of any unauthorized use or disclosure of any Confidential Information; or (b) any breach of this Section by Developer or any Disclosee, and in either event, Developer will cooperate with FLIR in every reasonable way, at Developer’s expense to help FLIR regain possession of such Confidential Information and prevent further unauthorized use or disclosure.  At FLIR’s request, at any time and from time to time, Developer will: (1) promptly return all originals, copies, reproductions and summaries of FLIR’s Confidential Information; or (2) at FLIR’s option and request, destroy the same and provide written certification by an officer of destruction to FLIR.
+
+(iii)	Developer may reasonably disclose Confidential Information only as required to comply with binding orders of governmental entities that have jurisdiction over it or as otherwise required by law; provided, however, Developer must: (a) give FLIR reasonable written notice to allow FLIR to seek a protective order or other appropriate remedy (except to the extent Developer’s compliance with the foregoing would cause it to violate a court order or other legal requirement); (b) disclose only such portion of Confidential Information as is required by the governmental entity or otherwise required by law, and protect the remainder of the Confidential Information; and (c) at FLIR’s request and expense, use commercially reasonable efforts to obtain confidential treatment (e.g., by protective order or equivalent) for any Confidential Information so disclosed.
+
+7.	FEEDBACK.  Developer shall promptly report to FLIR all bugs, malfunctions or other defects discovered by Developer in connection with its use of the FLIR SDK, and Developer may further provide suggestions, comments or other feedback to FLIR based on such use of the FLIR SDK.  All information regarding any bugs, malfunctions or defects and all such suggestions, comments or other feedback provided by Developer hereunder are herein referred to as “Feedback.”  Developer acknowledges and agrees that FLIR shall be the sole and exclusive owner of all right, title and interest in the Feedback, including without limitation, all trade secrets, know-how, patents, copyrights or other Intellectual Property Rights embodied in the Feedback.  Developer intends that the Feedback, including any part thereof, be deemed “works made for hire” of which FLIR shall be deemed the author.  If for any reason any such Feedback is not deemed “works made for hire” or if for any reason ownership of the Feedback, including without limitation, all Intellectual Property Rights associated therewith, is not otherwise fully vested in FLIR as a result of such designation, Developer hereby irrevocably assigns to FLIR all of Developer’s right, title, and interest in and to any and all of such Feedback, whether arising from copyright, patent, trademark, trade secret, or any other intellectual property law or doctrine.   If any right (including, without limitation, any moral right) in such Feedback cannot be assigned, Developer hereby waives enforcement anywhere in the world of such right against FLIR and exclusively and perpetually licenses such right to FLIR, its licensees, successors and assigns.
+
+8.	EXPORT RESTRICTIONS; U.S. GOVERNMENT RIGHTS.  
+
+8.1	Export Restrictions.  Developer acknowledges and agrees that the FLIR SDK may be subject to governmental export, import and/or use controls.  Developer shall not export, re-export, import, use or transfer the FLIR SDK except in compliance with the laws and regulations of the countries and/or territories from which the FLIR SDK is being exported or to which the FLIR SDK is being imported.  At a minimum, the FLIR SDK shall not be exported to: (i) any country subject to U.N. Security Council embargo or action; (ii) to countries subject to U.S. economic sanctions and embargoes; or (iii) to persons or entities prohibited from receiving U.S. exports or items or material originating from the U.S.  
+ 
+8.2	Government Rights.  The FLIR SDK constitutes “Commercial Items,” as that term is defined at 48 C.F.R. § 2.101, consisting of “Commercial Computer Software” and/or “Commercial Computer Software Documentation,” as those terms are used in 48 C.F.R. § 12.212 or 48 C.F.R. § 227.7202, as applicable. Consistent with 48 C.F.R. § 12.212 or 48 C.F.R. §§ 227.7202-1, 227.7202-3, and 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are, to the extent applicable, being licensed to U.S. Government End Users, if any: (i) only as Commercial Items; and (ii) with only those rights as are granted to all other End Users pursuant to the terms and conditions set forth in this Agreement.  This clause, consistent with 48 C.F.R. § 12.212 and 48 C.F.R. § 227.7202, is in lieu of, and supersedes, any other Federal Acquisition Regulation, Defense Federal Acquisition Regulation Supplement or other clause or provision that addresses U.S. Government rights in computer software, technical data or computer software documentation.   
+
+9.	REPRESENTATIONS AND WARRANTIES; DISCLAIMER; LIMITATION OF LIABILITY. 
+
+9.1	Disclaimer.  FLIR MAKES NO REPRESENTATIONS OR WARRANTIES WITH RESPECT TO THE FLIR SDK, THE CONFIDENTIAL INFORMATION, THE DEVICE, ANY DEVELOPED APP, AND/OR THE LOGO AND DEVELOPER ACKNOWLEDGES AND AGREES THAT THE SAME IS BEING PROVIDED HEREUNDER “AS IS” AND WITHOUT REPRESENTATION OR WARRANTY OF ANY KIND.  THE FOREGOING PROVISIONS ARE IN LIEU OF ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, WRITTEN OR ORAL (INCLUDING ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR WARRANTY OF NON-INFRINGEMENT), AND ALL SUCH REPRESENTATIONS OR WARRANTIES ARE EXPRESSLY DISCLAIMED.  FLIR SHALL HAVE NO LIABILITY, WHETHER TO DEVELOPER OR TO DEVELOPER’S END USERS, ARISING OUT OF DEVELOPER’S USE OF THE FLIR SDK, THE CONFIDENTIAL INFORMATION, THE LOGO, AND/OR DEVELOPER’S APPS, WHETHER BASED UPON WARRANTY, CONTRACT, TORT OR OTHERWISE. 
+
+9.2	Limitation of Liability.  IN NO EVENT SHALL FLIR OR ITS LICENSORS BE LIABLE TO DEVELOPER, ANY END USER OR TO ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES, INCLUDING WITHOUT LIMITATION, ANY LOSS OF PROFITS, LOSS OF DATA OR EQUIPMENT DOWNTIME, EVEN IF FLIR HAS BEEN ADVISED OF THE POSSIBILITY THEREOF AND REGARDLESS OF THE THEORY OF LIABILITY UNDER WHICH ANY SUCH DAMAGES ARE SOUGHT.  IN THE EVENT THAT ANY LIABILITY IS IMPOSED ON FLIR FOR ANY REASON WHATSOEVER, THE AGGREGATE AMOUNTS PAYABLE BY FLIR BY REASON THEREOF SHALL NOT EXCEED THE TOTAL AMOUNT OF $50 USD.  Developer acknowledges that the foregoing limitations are an essential element of the Agreement between the parties and that in the absence of such limitations the pricing and other terms set forth in this Agreement would be substantially different.
+
+10.	INDEMNITY. 
+
+10.1	Developer hereby agrees to defend, indemnify and hold harmless FLIR and its successors, Affiliates, and assigns, and their respective current and former officers, directors, members, stockholders, licensors, agents, employees, and attorneys (the “Indemnified Parties”) for, from, and against any and all Indemnified Claims.  “Indemnified Claims” means any and all actions, allegations, causes of action, suits, proceedings, claims, demands, judgments, settlements, penalties, damages, losses, liabilities, costs, and expenses (including without limitation FLIR’s reasonable attorneys’ fees and costs and those necessary to interpret or enforce this Section arising out of or relating to: (i) any breach by Developer of any provision of this Agreement, including without limitation, any representations, warranties or covenants set forth herein; (ii) any misrepresentation, fraud, misconduct, or violation of applicable laws and regulations arising out of Developer’s or its representatives or agents’ acts or omissions relating to this Agreement and/or Developer’ use of the FLIR SDK; (iii) any negligent act or omission of Developer or its representatives or agents relating to this Agreement and/or Developer’s use of the FLIR SDK; (iv) any License Agreement between Developer and its End Users, including without limitation, any breach or violation by Developer thereof; (v) any tortious acts or other injury or damage to persons or property (including death) arising from or related to: (a) the misuse or unauthorized use of the Logo (or any other FLIR trademarks, service marks, designs or logos) or the FLIR SDK, or any portion thereof, include without limitation, any use of the FLIR SDK in violation of this Agreement; or (b) any Apps, or any products, service or content made available through such Apps; or (vi) the infringement, violation or misappropriation (including any allegations thereof) of any Intellectual Property Rights, including without limitation, any patent, design, industrial design, copyright, trade secret or trademark or other third party proprietary right of any kind to the extent based on: (a) the Apps or the use thereof, or the combination of the Apps with any other hardware, software, system, or service; (b) any product, service or content made available, or required to be made available through the Apps; or (c) Developer’s combination of the FLIR SDK or any portion thereof with any hardware, software, system, or service.  Developer will defend the Indemnified Parties from any and all Indemnified Claims, will pay all reasonable attorneys’ and expert witness fees and costs relating to such defense, and will, except as otherwise set forth in this Section, take all actions and conduct all proceedings in connection with such defense as required to settle or defend such Indemnified Claims, including without limitation the employment of counsel reasonably satisfactory to FLIR. 
+
+10.2	FLIR will provide Developer with notice of any Indemnified Claims.  At Developer’s expense, FLIR will provide reasonable cooperation to Developer in connection with the defense or settlement of any such Indemnified Claims.  Developer may not settle any Indemnified Claims on FLIR’s behalf without first obtaining FLIR’s written permission.  Notwithstanding this Section, FLIR will have the right to immediately assume sole responsibility and control over the defense of any such Indemnified Claims and Developer acknowledges and agrees that FLIR’s exercise of such responsibility and control shall not relieve Developer of its indemnity obligations set forth in this Section.
+
+11.	TERM AND TERMINATION.
+
+11.1	Term. 	This Agreement shall commence as of the date Developer signs the Agreement or clicks “I ACCEPT THE TERMS OF THIS LICENSE” below (the “Effective Date”), whichever form of license is used, and shall continue until terminated in accordance with Section 11.2. 
+
+11.2	Termination. 
+
+(i)	This Agreement may be terminated by FLIR upon the breach by Developer of any other term, provision, covenant, representation or warranty set forth in this Agreement if the breach remains uncured for a period of ten (10) calendar days after the date FLIR provides notice thereof to Developer.  This Agreement may be terminated by either party by providing sixty (60) days advance notice to the other party.  
+
+(ii)	Upon the termination, expiration or cancellation of this Agreement, regardless of the cause (including, without limitation, termination by Developer), all rights granted to Developer hereunder, including without limitation the License, shall immediately and automatically cease and Developer shall: (a) cease all use of and/or access to the FLIR SDK; (b) return to FLIR or destroy, at FLIR’s option and at Developer’s expense, the FLIR SDK; (c) remove the App from iTunes and/or the App Store; (d) terminate any then current License Agreements for the App with its End Users; and (e) certify in writing to FLIR that Developer has taken the actions required in this Section.  Developer shall have no right to use, license, and/or distribute any Apps following the termination and/or expiration of this Agreement.  Provisions of this Agreement that by their terms, nature or context are intended by the parties to survive the termination, expiration or cancellation of this Agreement shall do so.  
+
+12.	GENERAL PROVISIONS.
+
+12.1	Entire Agreement.  This Agreement represents the entire understanding of the parties as of the Effective Date with respect to the subject matter hereof, and supersedes all prior agreements, negotiations, understandings, representations, statements, and writings between the parties relating thereto.  No modification, alteration, wavier, or change in any of the terms of this Agreement shall be valid or binding upon the parties unless made in writing and executed by each of the parties. If any one or more of the provisions of this Agreement shall be held to be invalid, illegal or unenforceable, the validity, legality or enforceability of the remaining provisions of this Agreement shall not in any way be affected or impaired thereby. Neither this Agreement nor any interest herein is assignable by Developer without the prior written consent of FLIR.   The failure of any party hereto to insist upon strict performance of any provision of this Agreement or to exercise any right hereunder will not constitute a waiver of that provision or right. Nothing herein contained shall be deemed to create an agency, joint venture or partnership relation between the parties hereto.  It is understood and agreed that Developer is not, by reason of this Agreement or anything herein contained, constituted or appointed the agent or representative of FLIR for any purpose whatsoever, nor shall anything herein contained be deemed or construed as granting to Developer any right or authority to assume or to create any obligation or responsibility for, on behalf of, or in the name of FLIR, or to bind FLIR in any way or manner whatsoever. This Agreement shall be controlled by and construed under the laws of the State of Oregon, USA (excluding its conflicts of laws principles) and not under the United Nations Convention on Contracts for the International Sales of Goods.  The parties hereby expressly agree to the personal jurisdiction of such courts over them and waive any claim that such forum is an inconvenient forum.  The parties do not intend to confer any right on any third party.
+
+12.2	Notices.  All notices or other communications that are required or permitted hereunder shall be in writing and sufficient if delivered personally, sent by prepaid overnight courier, sent by certified or registered mail, or sent by email or by facsimile transmission.  Notices to Developer will be sent to the email or address on file with FLIR.  Notices to FLIR must be sent to the address set forth below by prepaid overnight courier or certified mail:
+
+FLIR Systems Inc.
+Attention: General Counsel
+27700 SW Parkway Ave
+Wilsonville, Oregon 97070
+
+ 	                                               
+EST ADDENDUM
+
+
+Developer agrees to the following additional terms and conditions for any Apps developed for use in detecting elevated skin temperatures:
+
+1.	“FLIR EST Cameras” means FLIR thermal imaging cameras or Devices that have the resolution and accuracy specifications equal to or better than the FLIR E8 WiFi camera as those specifications are currently listed at
+https://www.flir.com/products/e8-wifi/
+
+2.	SDK Distribution 
+a.	Developer shall implement software restrictions that will detect the device being used with the App and enable the App to be used ONLY with a FLIR EST Camera. If an unqualified device (i.e. a non-FLIR EST Camera) is detected, the App must terminate with an error indicating unqualified hardware.
+b.	Developer shall not include the FLIR SDK in any open source distribution. Links or instructions for downloading from a FLIR web site shall be provided as needed.
+c.	If the FLIR SDK is included in a compiled distribution of the App, FLIR’s SDK license terms shall be displayed must be accepted by the user before downloading, during installation or prior to first use of the App. 
+
+3.	Marketing and Promotion of Skin Temperature Screening Apps.    If Developer creates an App to be used with a Device as a (non-diagnostic) tool for screening individuals for elevated skin temperatures, all marketing and promotion of such a  skin temperature screening App must clearly state: “The use of this App with a FLIR EST Camera or approved FLIR Device is intended for use only as a skin temperature measuring tool, and is not a medically-approved body temperature measurement device or a medical diagnostic tool.”  Further, the App will either include such wording on an opening screen or such wording must be presented and accepted by the user prior to download if the FLIR Atlas SDK is included in a compiled distribution
+
+4.	Medical Use.  Developer understands and acknowledges that the SDK and FLIR EST Camera Products are not intended for any medical- or health-related diagnostic uses (including, without limitation, any use for body temperature measurement in humans) nor have the Products, other than FLIR A series, T series and Exx series cameras, been cleared or approved by the U.S. Food and Drug Administration (“FDA”) or any other governmental authority.  Developer shall be solely responsible for any use, promotion, marketing, commercialization, or sale of the App for use with FLIR EST Camera Products for any medical- or health-related purposes.  Developer shall be solely responsible for ensuring compliance with the applicable laws and regulations, including, without limitation, the Federal Food, Drug, and Cosmetic Act and the regulations promulgated thereunder by FDA, for the use of the App with a FLIR Device for Health-Related Uses and for obtaining and maintaining any approvals, clearances, licenses, registrations, or permits required by FDA or any other governmental authority for the use of the APP with any FLIR EST Camera Product.  
+
+=======================================================================
+
+Thermal Scanning Kiosk Software License (Source Code Version)
+
+BY DOWNLOADING, COPYING, INSTALLING OR USING THE SOFTWARE YOU AGREE TO THE LICENSES BELOW AND FURTHER AGREE THAT YOU WILL ONLY USE THE SOFTWARE IN CONJUNCTION WITH THE THERMAL SCANNING KIOSK SOLUTION DESCRIBED IN THE README FILE OF THE RESPOSITORY IN WHICH THIS LICENSE AND SOFTWARE PACKAGE ARE FOUND (THE "README").  IF YOU DO NOT AGREE TO THE APPLICABLE LICENSES OR CANNOT USE THE SOFTWARE IN MATERIAL COMPLIANCE WITH THE README, DO NOT DOWNLOAD, INSTALL, COPY OR USE THE SOFTWARE.  IF YOU ARE ACCEPTING THESE TERMS ON BEHALF OF YOUR ORGANIZATION OR ANOTHER ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY TO THE TERMS OF THESE LICENSES.
+
+## Acceptance
+
+In order to get any license under these terms, you must agree to the terms as both strict obligations and conditions 
+to all your licenses.  
+
+## Grant of License
+
+Subject to the additional terms and additional obligations, below, the licensor hereby grants to you a non-exclusive, non-transferable, non-sublicensable, limited license to (i) use the software in material compliance with the thermal scanning kiosk solution README of the repository in which this license and software package are found, and (ii) modify the software or make changes or new works based on the software solely for your own personal use or for your organization's internal business purposes materially consistent with the uses set forth in the README.  You may not distribute or otherwise provide the software to any other person or organization.  
+
+## Additional Terms
+
+This software includes code that is intended to interoperate with thermal infrared cameras produced by FLIR Systems, Inc. If you wish to use this software in conjunction with a FLIR Systems thermal infrared camera, you will need to download the FLIR Atlas Software Development Kit (SDK), which is subject to the FLIR Software Development Kit (SDK) License Agreement with Elevated Skin Temperature Screening Apps Addendum (the "FLIR SDK License"). You may download the FLIR Atlas SDK and accept the FLIR SDK License terms at https://flir.custhelp.com/app/answers/detail/a_id/1275/~/free-download-instructions-for-the-atlas-sdk/.  
+
+## Additional Obligations
+
+By using this kiosk design and its associated software, you agree to the following:
+
+•	This kiosk design and its associated software may only be used for initial evaluation of multiple users entering a facility or other area.
+
+•	This kiosk design and its associated software can only be used to examine one user at a time.
+
+•	This kiosk design and its associated software will not be used to determine, diagnose or treat any disease or condition, including COVID-19.
+
+•	This kiosk design and its associated software will not be used to determine if a user has a fever.
+
+•	This kiosk design and its associated software will not be used to provide a user with their temperature, or any number related to their temperature.
+
+•	This kiosk design and its associated software must notify a user when an elevated thermal measurement is determined and, if such a determination is made, that additional evaluation is required.  
+
+•	This kiosk design and its associated software can only be used in an environment where further evaluation is available using an appropriate method, such as measurement with a non-contact infrared thermometer or a clinical grade contact thermometer.
+
+•	This kiosk design and its associated software cannot be used for a commercial purpose.  This includes manufacturing a kiosk for a third party; marketing or selling a kiosk; requesting compensation for the use of a kiosk; renting or leasing a kiosk; and the like.  This does not preclude you using the kiosk design and its associated software for internal use with employees, visitors, customers, students, and the like who may enter your facility.
+
+•	FLIR requires that the use of this App with a FLIR EST Camera or approved FLIR Device is intended for use only as a skin temperature measuring tool, and is not a medically-approved body temperature measurement device or a medical diagnostic tool.
+
+This kiosk relies on a third-party thermal infrared camera to provide readings to the software.  An appropriate camera must be selected and any instructions for the camera followed for proper functioning of the kiosk.  FLIR has indicated that its E8 camera is generally suitable for skin temperature screening applications.
+
+## No Other Rights
+
+These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses, including without limitation the right to distribute the software.
+
+## Violations
+
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 10 days of receiving notice.  Otherwise, all your licenses end immediately.
+
+## No Liability
+
+THIS KIOSK DESIGN AND ITS ASSOCIATED SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.  IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE KIOSK, SOFTWARE, OR THEIR USE.
+
+## Definitions
+
+The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
+
+**Your organization** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
+
+**Your licenses** are the licenses granted to you for the software under these terms.
+
+**Use** means anything you do with the software requiring your licenses.
+
+
+=======================================================================
+
+Creative Commons Attribution-ShareAlike 4.0 International Public
+License
+
+By exercising the Licensed Rights (defined below), You accept and agree
+to be bound by the terms and conditions of this Creative Commons
+Attribution-ShareAlike 4.0 International Public License ("Public
+License"). To the extent this Public License may be interpreted as a
+contract, You are granted the Licensed Rights in consideration of Your
+acceptance of these terms and conditions, and the Licensor grants You
+such rights in consideration of benefits the Licensor receives from
+making the Licensed Material available under these terms and
+conditions.
+
+
+Section 1 -- Definitions.
+
+  a. Adapted Material means material subject to Copyright and Similar
+     Rights that is derived from or based upon the Licensed Material
+     and in which the Licensed Material is translated, altered,
+     arranged, transformed, or otherwise modified in a manner requiring
+     permission under the Copyright and Similar Rights held by the
+     Licensor. For purposes of this Public License, where the Licensed
+     Material is a musical work, performance, or sound recording,
+     Adapted Material is always produced where the Licensed Material is
+     synched in timed relation with a moving image.
+
+  b. Adapter's License means the license You apply to Your Copyright
+     and Similar Rights in Your contributions to Adapted Material in
+     accordance with the terms and conditions of this Public License.
+
+  c. BY-SA Compatible License means a license listed at
+     creativecommons.org/compatiblelicenses, approved by Creative
+     Commons as essentially the equivalent of this Public License.
+
+  d. Copyright and Similar Rights means copyright and/or similar rights
+     closely related to copyright including, without limitation,
+     performance, broadcast, sound recording, and Sui Generis Database
+     Rights, without regard to how the rights are labeled or
+     categorized. For purposes of this Public License, the rights
+     specified in Section 2(b)(1)-(2) are not Copyright and Similar
+     Rights.
+
+  e. Effective Technological Measures means those measures that, in the
+     absence of proper authority, may not be circumvented under laws
+     fulfilling obligations under Article 11 of the WIPO Copyright
+     Treaty adopted on December 20, 1996, and/or similar international
+     agreements.
+
+  f. Exceptions and Limitations means fair use, fair dealing, and/or
+     any other exception or limitation to Copyright and Similar Rights
+     that applies to Your use of the Licensed Material.
+
+  g. License Elements means the license attributes listed in the name
+     of a Creative Commons Public License. The License Elements of this
+     Public License are Attribution and ShareAlike.
+
+  h. Licensed Material means the artistic or literary work, database,
+     or other material to which the Licensor applied this Public
+     License.
+
+  i. Licensed Rights means the rights granted to You subject to the
+     terms and conditions of this Public License, which are limited to
+     all Copyright and Similar Rights that apply to Your use of the
+     Licensed Material and that the Licensor has authority to license.
+
+  j. Licensor means the individual(s) or entity(ies) granting rights
+     under this Public License.
+
+  k. Share means to provide material to the public by any means or
+     process that requires permission under the Licensed Rights, such
+     as reproduction, public display, public performance, distribution,
+     dissemination, communication, or importation, and to make material
+     available to the public including in ways that members of the
+     public may access the material from a place and at a time
+     individually chosen by them.
+
+  l. Sui Generis Database Rights means rights other than copyright
+     resulting from Directive 96/9/EC of the European Parliament and of
+     the Council of 11 March 1996 on the legal protection of databases,
+     as amended and/or succeeded, as well as other essentially
+     equivalent rights anywhere in the world.
+
+  m. You means the individual or entity exercising the Licensed Rights
+     under this Public License. Your has a corresponding meaning.
+
+
+Section 2 -- Scope.
+
+  a. License grant.
+
+       1. Subject to the terms and conditions of this Public License,
+          the Licensor hereby grants You a worldwide, royalty-free,
+          non-sublicensable, non-exclusive, irrevocable license to
+          exercise the Licensed Rights in the Licensed Material to:
+
+            a. reproduce and Share the Licensed Material, in whole or
+               in part; and
+
+            b. produce, reproduce, and Share Adapted Material.
+
+       2. Exceptions and Limitations. For the avoidance of doubt, where
+          Exceptions and Limitations apply to Your use, this Public
+          License does not apply, and You do not need to comply with
+          its terms and conditions.
+
+       3. Term. The term of this Public License is specified in Section
+          6(a).
+
+       4. Media and formats; technical modifications allowed. The
+          Licensor authorizes You to exercise the Licensed Rights in
+          all media and formats whether now known or hereafter created,
+          and to make technical modifications necessary to do so. The
+          Licensor waives and/or agrees not to assert any right or
+          authority to forbid You from making technical modifications
+          necessary to exercise the Licensed Rights, including
+          technical modifications necessary to circumvent Effective
+          Technological Measures. For purposes of this Public License,
+          simply making modifications authorized by this Section 2(a)
+          (4) never produces Adapted Material.
+
+       5. Downstream recipients.
+
+            a. Offer from the Licensor -- Licensed Material. Every
+               recipient of the Licensed Material automatically
+               receives an offer from the Licensor to exercise the
+               Licensed Rights under the terms and conditions of this
+               Public License.
+
+            b. Additional offer from the Licensor -- Adapted Material.
+               Every recipient of Adapted Material from You
+               automatically receives an offer from the Licensor to
+               exercise the Licensed Rights in the Adapted Material
+               under the conditions of the Adapter's License You apply.
+
+            c. No downstream restrictions. You may not offer or impose
+               any additional or different terms or conditions on, or
+               apply any Effective Technological Measures to, the
+               Licensed Material if doing so restricts exercise of the
+               Licensed Rights by any recipient of the Licensed
+               Material.
+
+       6. No endorsement. Nothing in this Public License constitutes or
+          may be construed as permission to assert or imply that You
+          are, or that Your use of the Licensed Material is, connected
+          with, or sponsored, endorsed, or granted official status by,
+          the Licensor or others designated to receive attribution as
+          provided in Section 3(a)(1)(A)(i).
+
+  b. Other rights.
+
+       1. Moral rights, such as the right of integrity, are not
+          licensed under this Public License, nor are publicity,
+          privacy, and/or other similar personality rights; however, to
+          the extent possible, the Licensor waives and/or agrees not to
+          assert any such rights held by the Licensor to the limited
+          extent necessary to allow You to exercise the Licensed
+          Rights, but not otherwise.
+
+       2. Patent and trademark rights are not licensed under this
+          Public License.
+
+       3. To the extent possible, the Licensor waives any right to
+          collect royalties from You for the exercise of the Licensed
+          Rights, whether directly or through a collecting society
+          under any voluntary or waivable statutory or compulsory
+          licensing scheme. In all other cases the Licensor expressly
+          reserves any right to collect such royalties.
+
+
+Section 3 -- License Conditions.
+
+Your exercise of the Licensed Rights is expressly made subject to the
+following conditions.
+
+  a. Attribution.
+
+       1. If You Share the Licensed Material (including in modified
+          form), You must:
+
+            a. retain the following if it is supplied by the Licensor
+               with the Licensed Material:
+
+                 i. identification of the creator(s) of the Licensed
+                    Material and any others designated to receive
+                    attribution, in any reasonable manner requested by
+                    the Licensor (including by pseudonym if
+                    designated);
+
+                ii. a copyright notice;
+
+               iii. a notice that refers to this Public License;
+
+                iv. a notice that refers to the disclaimer of
+                    warranties;
+
+                 v. a URI or hyperlink to the Licensed Material to the
+                    extent reasonably practicable;
+
+            b. indicate if You modified the Licensed Material and
+               retain an indication of any previous modifications; and
+
+            c. indicate the Licensed Material is licensed under this
+               Public License, and include the text of, or the URI or
+               hyperlink to, this Public License.
+
+       2. You may satisfy the conditions in Section 3(a)(1) in any
+          reasonable manner based on the medium, means, and context in
+          which You Share the Licensed Material. For example, it may be
+          reasonable to satisfy the conditions by providing a URI or
+          hyperlink to a resource that includes the required
+          information.
+
+       3. If requested by the Licensor, You must remove any of the
+          information required by Section 3(a)(1)(A) to the extent
+          reasonably practicable.
+
+  b. ShareAlike.
+
+     In addition to the conditions in Section 3(a), if You Share
+     Adapted Material You produce, the following conditions also apply.
+
+       1. The Adapter's License You apply must be a Creative Commons
+          license with the same License Elements, this version or
+          later, or a BY-SA Compatible License.
+
+       2. You must include the text of, or the URI or hyperlink to, the
+          Adapter's License You apply. You may satisfy this condition
+          in any reasonable manner based on the medium, means, and
+          context in which You Share Adapted Material.
+
+       3. You may not offer or impose any additional or different terms
+          or conditions on, or apply any Effective Technological
+          Measures to, Adapted Material that restrict exercise of the
+          rights granted under the Adapter's License You apply.
+
+
+Section 4 -- Sui Generis Database Rights.
+
+Where the Licensed Rights include Sui Generis Database Rights that
+apply to Your use of the Licensed Material:
+
+  a. for the avoidance of doubt, Section 2(a)(1) grants You the right
+     to extract, reuse, reproduce, and Share all or a substantial
+     portion of the contents of the database;
+
+  b. if You include all or a substantial portion of the database
+     contents in a database in which You have Sui Generis Database
+     Rights, then the database in which You have Sui Generis Database
+     Rights (but not its individual contents) is Adapted Material,
+
+     including for purposes of Section 3(b); and
+  c. You must comply with the conditions in Section 3(a) if You Share
+     all or a substantial portion of the contents of the database.
+
+For the avoidance of doubt, this Section 4 supplements and does not
+replace Your obligations under this Public License where the Licensed
+Rights include other Copyright and Similar Rights.
+
+
+Section 5 -- Disclaimer of Warranties and Limitation of Liability.
+
+  a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE
+     EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS
+     AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF
+     ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS,
+     IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION,
+     WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR
+     PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS,
+     ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT
+     KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT
+     ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.
+
+  b. TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE
+     TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION,
+     NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT,
+     INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES,
+     COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR
+     USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN
+     ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR
+     DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR
+     IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.
+
+  c. The disclaimer of warranties and limitation of liability provided
+     above shall be interpreted in a manner that, to the extent
+     possible, most closely approximates an absolute disclaimer and
+     waiver of all liability.
+
+
+Section 6 -- Term and Termination.
+
+  a. This Public License applies for the term of the Copyright and
+     Similar Rights licensed here. However, if You fail to comply with
+     this Public License, then Your rights under this Public License
+     terminate automatically.
+
+  b. Where Your right to use the Licensed Material has terminated under
+     Section 6(a), it reinstates:
+
+       1. automatically as of the date the violation is cured, provided
+          it is cured within 30 days of Your discovery of the
+          violation; or
+
+       2. upon express reinstatement by the Licensor.
+
+     For the avoidance of doubt, this Section 6(b) does not affect any
+     right the Licensor may have to seek remedies for Your violations
+     of this Public License.
+
+  c. For the avoidance of doubt, the Licensor may also offer the
+     Licensed Material under separate terms or conditions or stop
+     distributing the Licensed Material at any time; however, doing so
+     will not terminate this Public License.
+
+  d. Sections 1, 5, 6, 7, and 8 survive termination of this Public
+     License.
+
+
+Section 7 -- Other Terms and Conditions.
+
+  a. The Licensor shall not be bound by any additional or different
+     terms or conditions communicated by You unless expressly agreed.
+
+  b. Any arrangements, understandings, or agreements regarding the
+     Licensed Material not stated herein are separate from and
+     independent of the terms and conditions of this Public License.
+
+
+Section 8 -- Interpretation.
+
+  a. For the avoidance of doubt, this Public License does not, and
+     shall not be interpreted to, reduce, limit, restrict, or impose
+     conditions on any use of the Licensed Material that could lawfully
+     be made without permission under this Public License.
+
+  b. To the extent possible, if any provision of this Public License is
+     deemed unenforceable, it shall be automatically reformed to the
+     minimum extent necessary to make it enforceable. If the provision
+     cannot be reformed, it shall be severed from this Public License
+     without affecting the enforceability of the remaining terms and
+     conditions.
+
+  c. No term or condition of this Public License will be waived and no
+     failure to comply consented to unless expressly agreed to by the
+     Licensor.
+
+  d. Nothing in this Public License constitutes or may be interpreted
+     as a limitation upon, or waiver of, any privileges and immunities
+     that apply to the Licensor or You, including from the legal
+     processes of any jurisdiction or authority.
+
+
+=======================================================================
+
+Creative Commons is not a party to its public
+licenses. Notwithstanding, Creative Commons may elect to apply one of
+its public licenses to material it publishes and in those instances
+will be considered the “Licensor.” The text of the Creative Commons
+public licenses is dedicated to the public domain under the CC0 Public
+Domain Dedication. Except for the limited purpose of indicating that
+material is shared under a Creative Commons public license or as
+otherwise permitted by the Creative Commons policies published at
+creativecommons.org/policies, Creative Commons does not authorize the
+use of the trademark "Creative Commons" or any other trademark or logo
+of Creative Commons without its prior written consent including,
+without limitation, in connection with any unauthorized modifications
+to any of its public licenses or any other arrangements,
+understandings, or agreements concerning use of licensed material. For
+the avoidance of doubt, this paragraph does not form part of the
+public licenses.
+
+Creative Commons may be contacted at creativecommons.org.
