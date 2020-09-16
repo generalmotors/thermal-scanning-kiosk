@@ -79,7 +79,7 @@ architecture and implementation sections that follow.
 
 | **Component Description**                | **Qty** | **Approx. Cost** |
 |------------------------------------------|---------|------------------|
-| FLIR E8-XT Thermal Camera                | 1       | \$3,000          |
+| FLIR E8-XT Thermal Camera                | 1       | \$5,000          |
 | HP ProDesk 400 G5 Mini (1 HDMI port)     | 1       | \$510            |
 | HP V2 Mounting Kit (Mini Desktop)        | 1       | \$35             |
 | Dell 21.5” Monitor (UZ2215Hf)            | 1       | \$140            |
@@ -97,7 +97,7 @@ architecture and implementation sections that follow.
 | M3 nuts                                  | 2       | \$0.25           |
 | Inland USB 3.1 Hub                       | 1       | \$15             |
 | Power strip (6 port)                     | 1       | \$10             |
-| **Total Cost**                           |         | \$3,777.50       |
+| **Total Cost**                           |         | \$5,777.50       |
 
 Architecture
 
